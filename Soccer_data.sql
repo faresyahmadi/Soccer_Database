@@ -1,4 +1,3 @@
--- Database Design Project Phase 3 Siya Mabuza & Fares Yahmadi
 
 DROP TABLE IF EXISTS participates_in;
 DROP TABLE IF EXISTS transfers;
